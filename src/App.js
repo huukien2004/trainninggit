@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+console.log("Login done nghia !")
 
-console.log("Login done nghia kien !")
 function App() {
   return (
     <div className="App">
