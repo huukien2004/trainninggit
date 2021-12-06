@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-console.log("Login done nghia !")
+console.log("Login done !")
 
 function App() {
   return (
